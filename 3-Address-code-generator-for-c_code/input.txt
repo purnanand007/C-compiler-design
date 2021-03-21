@@ -1,0 +1,11 @@
+{
+for (i=2; i<=n; i++)
+{t1= 1; }
+count = 0;
+s = t3 ;
+for (i=2; i<=s; i++)
+{if t1) 
+{count++ ;
+for (j=2*i; j<=n; j = j+i)
+{t2 = 2;}} }
+}
